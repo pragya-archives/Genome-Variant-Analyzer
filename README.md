@@ -1,3 +1,4 @@
+<img width="777" height="512" alt="Capture" src="https://github.com/user-attachments/assets/eb980ff5-8c04-4da8-a5d7-0caa208a71c4" />
 # Genome Variant Analyzer 🧬
 
 A small Python project I made to compare two DNA sequences and find the differences between them.
