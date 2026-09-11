@@ -37,8 +37,6 @@ The protein changes from:
 
 So the mutation is classified as **Missense**.
 
-<img width="777" height="512" alt="Capture" src="https://github.com/user-attachments/assets/eb980ff5-8c04-4da8-a5d7-0caa208a71c4" />
-
 ## How to run
 
 Make sure Biopython is installed, then run:
@@ -55,3 +53,8 @@ mutant.fasta
 ```
 
 The detected variants are also saved in `variant_report.csv`.
+
+## The Genome Variant Report 
+
+
+<img width="777" height="512" alt="Capture" src="https://github.com/user-attachments/assets/eb980ff5-8c04-4da8-a5d7-0caa208a71c4" />
